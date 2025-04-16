@@ -27,6 +27,6 @@ Este projeto é um conversor de moedas desenvolvido em **HTML5**, **CSS3** e **J
 ---
 
 <p align="center">
-  Desenvolvido durante o curso da <strong>Rocketseat</strong> com 💛 por <strong>@mayasrl</strong>.
+  Desenvolvido durante uma aula do curso Fullstack da <strong>Rocketseat</strong> com 💛 por <strong>@mayasrl</strong>.
 </p>
 
